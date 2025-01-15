@@ -1,1 +1,1 @@
-print("SOY JS=U")
+print("SOY JS")
